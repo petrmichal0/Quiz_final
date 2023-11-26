@@ -152,7 +152,6 @@ progress {
 }
 
 .btn-option {
-  /* width: 100%; */
   text-align: left;
 }
 
@@ -204,8 +203,12 @@ progress {
   font-size: 1.4rem;
 }
 
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
 .timer {
-  /* float: left; */
   font-size: 1.8rem;
   color: var(--color-medium);
   border: 2px solid var(--color-dark);
@@ -241,8 +244,6 @@ progress {
   }
 }
 
-/* ********** */
-/* First counter example */
 .counter {
   display: flex;
   flex-direction: column;
@@ -256,9 +257,4 @@ progress {
 .counter * {
   font-size: inherit;
   padding: 0.8rem;
-}
-
-.test {
-  display: flex;
-  justify-content: space-between;
 }
