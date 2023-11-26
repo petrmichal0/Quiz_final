@@ -64,8 +64,6 @@ const reducer = (state, action) => {
     case "restart":
       return {
         ...initialState,
-        questions: state.questions,
-        status: "ready",
         highscore: state.highscore,
       };
 
@@ -77,7 +75,7 @@ const reducer = (state, action) => {
       };
 
     default:
-      console.log("OK");
+      console.log("");
   }
 };
 

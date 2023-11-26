@@ -140,10 +140,6 @@ progress {
   cursor: not-allowed;
 }
 
-.btn-ui {
-  margin-left: auto;
-}
-
 .options {
   display: flex;
   flex-direction: column;
