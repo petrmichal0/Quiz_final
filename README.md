@@ -69,13 +69,19 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
   </tr>
   <tr>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/f578f2cc-9fbe-4540-817a-e55acf40fd2e" width="300" height="300" alt="Homepage">
+      <a href="https://github.com/user-attachments/assets/f578f2cc-9fbe-4540-817a-e55acf40fd2e" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/user-attachments/assets/f578f2cc-9fbe-4540-817a-e55acf40fd2e" width="300" height="300" alt="Homepage">
+      </a>
     </td>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/df1d2a72-35b5-4fa5-948d-f6786f2a1383" width="300" height="300" alt="Ordering Pizza">
+      <a href="https://github.com/user-attachments/assets/df1d2a72-35b5-4fa5-948d-f6786f2a1383" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/user-attachments/assets/df1d2a72-35b5-4fa5-948d-f6786f2a1383" width="300" height="300" alt="Ordering Pizza">
+      </a>
     </td>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/3f954c04-50a9-4a2f-a3a8-6341b28b12eb" width="300" height="300" alt="Order Cart">
+      <a href="https://github.com/user-attachments/assets/3f954c04-50a9-4a2f-a3a8-6341b28b12eb" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/user-attachments/assets/3f954c04-50a9-4a2f-a3a8-6341b28b12eb" width="300" height="300" alt="Order Cart">
+      </a>
     </td>
   </tr>
 </table>
