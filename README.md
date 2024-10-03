@@ -7,7 +7,7 @@ The React Quiz is an interactive web-based quiz application designed to test use
 ![Static Badge](https://img.shields.io/badge/status-active-brightgreen)
 
 ## Quick Look
-<img src="https://github.com/user-attachments/assets/e0e0290f-3a01-412e-944f-17780431c1c3" width="700" alt="React Quiz App">
+<img src="https://github.com/user-attachments/assets/84c42359-770e-4cc1-b959-67efbb347cc5" width="700" alt="React Quiz App">
 
 ## Table of Contents
 - [Project Title and Description](#project-title-and-description)
@@ -64,37 +64,25 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
 <table>
   <tr>
     <th>Homepage</th>
-    <th>Ordering Pizza</th>
-    <th>Order Cart</th>
+    <th>Quests</th>
+    <th>Finish Quiz</th>
   </tr>
   <tr>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/4eed151e-d458-4092-a0b8-29898399ca0f" width="300" height="300" alt="Homepage">
+      <img src="https://github.com/user-attachments/assets/f578f2cc-9fbe-4540-817a-e55acf40fd2e" width="300" height="300" alt="Homepage">
     </td>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/915db2d5-0241-42a5-92ce-705d64b269a0" width="300" height="300" alt="Ordering Pizza">
+      <img src="https://github.com/user-attachments/assets/df1d2a72-35b5-4fa5-948d-f6786f2a1383" width="300" height="300" alt="Ordering Pizza">
     </td>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/a2f46a3e-2778-4dd1-9d86-b9c9a07240a6" width="300" height="300" alt="Order Cart">
-    </td>
-  </tr>
-  <tr>
-    <th>Add Information / Order Confirmation</th>
-    <th>Order finish list</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/255e0018-21ae-4182-891d-c548050bbb8e" width="300" height="300" alt="Add Information / Order Confirmation">
-    </td>
-    <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/8dc33712-0f58-4288-8838-322325a71520" width="300" height="300" alt="Order finish list">
+      <img src="https://github.com/user-attachments/assets/3f954c04-50a9-4a2f-a3a8-6341b28b12eb" width="300" height="300" alt="Order Cart">
     </td>
   </tr>
 </table>
 
 ## Demo (link)
 
-Check out the live demo of the application [here](https://pizza-2023.netlify.app/).
+Check out the live demo of the application [here](https://v1-quiz.netlify.app/).
 
 ## Project Structure
 
