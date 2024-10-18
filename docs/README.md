@@ -119,13 +119,11 @@ React-Quiz/
 ## Technologies Used
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Vite Badge](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
 
 ## Third-Party Libraries
-* React: A JavaScript library for building user interfaces.
-* Vite: A fast development build tool and server.
-* ESLint: A pluggable linter tool for identifying and reporting patterns in JavaScript.
-* Prettier: A code formatter to ensure consistent coding style.
+* None
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the LICENSE file for details.
